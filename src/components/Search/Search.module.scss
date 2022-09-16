@@ -1,0 +1,22 @@
+.search {
+  position: relative;
+}
+.input {
+  min-width: 258px;
+  height: 16px;
+  padding: 18px 39px 18px 48px;
+
+  border: none;
+  border-radius: 8px;
+
+  font-weight: 400;
+  font-size: 14px;
+
+  color: #cfcfcf;
+  background-color: #504b4a;
+}
+.icon {
+  position: absolute;
+  right: 17px;
+  top: 15px;
+}
